@@ -1,0 +1,30 @@
+def title(input_string):
+    return input_string.title()
+def isdecimal(input_string):
+    return input_string.isdecimal()
+def islower(input_string):
+    return input_string.islower()
+def split(input_string):
+    return input_string.split()
+def capitalize(input_string):
+    return input_string.capitalize()
+def swapcase(input_string):
+    return input_strig.swapcase()
+def count(input_string):
+    return input_string.count()
+def zfill(input_string):
+    return input_string.zfill()
+def rstrip(input_string):
+    return input_string.strip()
+def rjust(input_string):
+    return input_string.rjust()
+#to display the functions that are available to the program
+while True:
+    print("string functions")
+    print("1.title")
+    print("2.isdecimal")
+    print("3.islower")
+    print("4.split")
+    print("5.capitalize")
+    print("6.swapcase")
+    print("7.count")
